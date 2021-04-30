@@ -40,3 +40,8 @@ nav{
     height: 480px; 
  }
  
+
+ div {
+    height: 1000px;
+    background: linear-gradient(45deg, #c4a5ca, #C5DDE8);
+    }
